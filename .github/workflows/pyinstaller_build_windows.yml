@@ -1,4 +1,4 @@
-name: pyinstaller_build
+name: pyinstaller_build_windows
 
 on:
   push:
